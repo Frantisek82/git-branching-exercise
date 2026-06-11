@@ -14,3 +14,9 @@
 - Resume watching from the last position.
 - Track course completion.
 - Display progress percentage.
+
+## New Improvements
+
+- Video quality selector
+- Playback speed control
+- Automatic subtitles
