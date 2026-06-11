@@ -20,3 +20,9 @@
 - Video quality selector
 - Playback speed control
 - Automatic subtitles
+
+## Production Hotfix
+
+- Fixed login validation issue.
+- Improved session handling.
+
