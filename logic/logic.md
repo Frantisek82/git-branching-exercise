@@ -14,3 +14,8 @@
 - Resume watching from the last position.
 - Track course completion.
 - Display progress percentage.
+
+## Production Hotfix
+
+- Fixed login validation issue.
+- Improved session handling.
