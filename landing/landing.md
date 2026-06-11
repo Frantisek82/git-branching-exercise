@@ -17,3 +17,10 @@ Our online platform offers courses in:
 - Affordable pricing
 
 Start your journey today!
+
+## Updated Design
+
+- Responsive layout
+- Improved typography
+- Better spacing
+- Mobile-friendly navigation
