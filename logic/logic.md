@@ -26,3 +26,8 @@
 - Fixed login validation issue.
 - Improved session handling.
 
+## Future Enhancements
+
+- AI-generated course recommendations
+- Adaptive learning paths
+- Offline video downloads
