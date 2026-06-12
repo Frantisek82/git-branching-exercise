@@ -94,7 +94,7 @@ docs/images/git-graph.png
 and GitHub will display it here:
 
 ```markdown
-![Git Graph](docs/images/git-graph.png)
+![Git Graph](/docs/images/git-graph.png)
 ```
 
 ## Useful Commands
