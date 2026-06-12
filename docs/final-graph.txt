@@ -1,0 +1,16 @@
+* f344bb8 (HEAD -> master, feat-payment-gateway, develop) Add payment gateway feature
+* 4e8023d (fix-landing-page-styles) Improve landing page style
+* 0c15f32 (feat-logic) Finish logic improvements
+*   5bed291 Merge branch 'master' into feat-logic
+|\  
+| * 137f566 (hotfix-login) Fix login production issue
+| * 1d9c771 (refactor-restructuring) Restructure project folders
+* | 2b961bd Improve video logic
+|/  
+* 876de76 Add application logic
+*   acb1bdb Merge branch 'feat-courses' into develop
+|\  
+| * b184418 (feat-courses) Add courses page
+* | bdacad6 (feat-landing) Add landing page
+|/  
+* 083f238 Initial commit
