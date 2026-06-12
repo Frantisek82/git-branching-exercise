@@ -85,17 +85,7 @@ docs/final-graph.txt
 
 ### Git Graph Screenshot
 
-After creating a screenshot, place it in:
-
-```text
-docs/images/git-graph.png
-```
-
-and GitHub will display it here:
-
-```markdown
-![Git Graph](/docs/images/git-graph.png)
-```
+![Git Graph](docs/images/git-graph.png)
 
 ## Useful Commands
 
